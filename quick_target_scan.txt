@@ -1,0 +1,8 @@
+# Nmap 7.94 scan initiated Sat Nov  1 05:27:52 2025 as: nmap -sS -F -oN quick_target_scan.txt 10.3.40.195
+Nmap scan report for 10.3.40.195
+Host is up (0.0000030s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+# Nmap done at Sat Nov  1 05:27:52 2025 -- 1 IP address (1 host up) scanned in 0.10 seconds

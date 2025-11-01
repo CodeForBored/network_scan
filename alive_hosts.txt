@@ -1,0 +1,187 @@
+# Nmap 7.94 scan initiated Thu Oct 30 01:57:37 2025 as: nmap -sn -oN alive_hosts.txt 10.3.40.0/24
+Nmap scan report for 10.3.40.0
+Host is up (0.074s latency).
+MAC Address: AC:12:03:3A:11:64 (Intel Corporate)
+Nmap scan report for 10.3.40.15
+Host is up (0.0066s latency).
+MAC Address: E6:4C:2E:F3:21:D4 (Unknown)
+Nmap scan report for 10.3.40.16
+Host is up (0.0049s latency).
+MAC Address: BA:F8:72:9F:14:2B (Unknown)
+Nmap scan report for 10.3.40.19
+Host is up (0.026s latency).
+MAC Address: 52:0D:03:39:F2:D9 (Unknown)
+Nmap scan report for 10.3.40.20
+Host is up (0.12s latency).
+MAC Address: EE:E5:D0:EA:D2:F4 (Unknown)
+Nmap scan report for 10.3.40.21
+Host is up (0.036s latency).
+MAC Address: 82:F4:F3:3D:5F:AA (Unknown)
+Nmap scan report for 10.3.40.25
+Host is up (0.040s latency).
+MAC Address: 82:FD:E4:A5:01:8C (Unknown)
+Nmap scan report for 10.3.40.33
+Host is up (0.0079s latency).
+MAC Address: 12:4B:17:FB:91:61 (Unknown)
+Nmap scan report for 10.3.40.34
+Host is up (0.59s latency).
+MAC Address: 66:23:3D:57:E2:07 (Unknown)
+Nmap scan report for 10.3.40.35
+Host is up (0.078s latency).
+MAC Address: 10:3F:44:14:9A:51 (Xiaomi Communications)
+Nmap scan report for 10.3.40.38
+Host is up (0.41s latency).
+MAC Address: 0A:F2:6A:8D:22:12 (Unknown)
+Nmap scan report for 10.3.40.41
+Host is up (0.039s latency).
+MAC Address: 28:2E:89:DF:A9:3D (Unknown)
+Nmap scan report for 10.3.40.55
+Host is up (0.28s latency).
+MAC Address: 32:01:4E:DD:E7:EC (Unknown)
+Nmap scan report for 10.3.40.59
+Host is up (0.26s latency).
+MAC Address: 06:89:09:47:A7:AD (Unknown)
+Nmap scan report for 10.3.40.76
+Host is up (0.22s latency).
+MAC Address: FA:20:66:13:63:B4 (Unknown)
+Nmap scan report for 10.3.40.78
+Host is up (0.0074s latency).
+MAC Address: 4A:DA:66:4C:97:43 (Unknown)
+Nmap scan report for 10.3.40.81
+Host is up (0.0051s latency).
+MAC Address: 64:32:A8:B3:D3:FF (Intel Corporate)
+Nmap scan report for 10.3.40.85
+Host is up (0.0064s latency).
+MAC Address: 9E:20:0D:7F:36:5E (Unknown)
+Nmap scan report for 10.3.40.87
+Host is up (0.0057s latency).
+MAC Address: 5C:61:99:56:DD:55 (Cloud Network Technology Singapore PTE.)
+Nmap scan report for 10.3.40.89
+Host is up (0.58s latency).
+MAC Address: 1A:3A:AB:1D:84:19 (Unknown)
+Nmap scan report for 10.3.40.90
+Host is up (0.10s latency).
+MAC Address: 36:80:97:17:5B:79 (Unknown)
+Nmap scan report for 10.3.40.97
+Host is up (0.30s latency).
+MAC Address: 72:0E:79:29:7D:3F (Unknown)
+Nmap scan report for 10.3.40.100
+Host is up (0.0053s latency).
+MAC Address: 80:00:0B:89:20:E7 (Intel Corporate)
+Nmap scan report for 10.3.40.101
+Host is up (0.013s latency).
+MAC Address: 28:C5:D2:D5:5E:76 (Intel Corporate)
+Nmap scan report for 10.3.40.102
+Host is up (0.074s latency).
+MAC Address: EE:37:E1:51:7D:9B (Unknown)
+Nmap scan report for 10.3.40.104
+Host is up (0.048s latency).
+MAC Address: 02:C5:16:E9:91:D4 (Unknown)
+Nmap scan report for 10.3.40.105
+Host is up (0.22s latency).
+MAC Address: 0A:18:53:F5:7C:27 (Unknown)
+Nmap scan report for 10.3.40.110
+Host is up (0.64s latency).
+MAC Address: 56:3C:D4:63:5F:E3 (Unknown)
+Nmap scan report for 10.3.40.118
+Host is up (0.49s latency).
+MAC Address: 4C:0F:3E:5C:E0:0E (Unknown)
+Nmap scan report for 10.3.40.124
+Host is up (0.011s latency).
+MAC Address: 0A:F8:43:CE:0B:15 (Unknown)
+Nmap scan report for 10.3.40.131
+Host is up (0.073s latency).
+MAC Address: 00:45:E2:B6:FD:D3 (CyberTAN Technology)
+Nmap scan report for 10.3.40.134
+Host is up (0.058s latency).
+MAC Address: F8:54:F6:13:D1:44 (Unknown)
+Nmap scan report for 10.3.40.135
+Host is up (0.059s latency).
+MAC Address: 70:08:94:E1:CB:73 (Unknown)
+Nmap scan report for 10.3.40.140
+Host is up (0.14s latency).
+MAC Address: D6:8D:BF:74:A3:9C (Unknown)
+Nmap scan report for 10.3.40.143
+Host is up (0.51s latency).
+MAC Address: 06:F5:5E:1A:2B:76 (Unknown)
+Nmap scan report for 10.3.40.145
+Host is up (0.0057s latency).
+MAC Address: 3C:F0:11:F9:93:E0 (Intel Corporate)
+Nmap scan report for 10.3.40.146
+Host is up (0.0057s latency).
+MAC Address: 9C:B1:50:68:75:0E (Unknown)
+Nmap scan report for 10.3.40.151
+Host is up (1.3s latency).
+MAC Address: 72:B1:97:CB:0C:51 (Unknown)
+Nmap scan report for 10.3.40.154
+Host is up (0.044s latency).
+MAC Address: A6:69:5B:B8:C9:ED (Unknown)
+Nmap scan report for 10.3.40.155
+Host is up (0.043s latency).
+MAC Address: AA:E4:51:B6:84:2B (Unknown)
+Nmap scan report for 10.3.40.164
+Host is up (0.20s latency).
+MAC Address: 76:E8:1F:71:69:D2 (Unknown)
+Nmap scan report for 10.3.40.165
+Host is up (0.066s latency).
+MAC Address: 22:8A:40:11:9C:F2 (Unknown)
+Nmap scan report for 10.3.40.169
+Host is up (0.17s latency).
+MAC Address: 5E:8D:C4:4B:4C:ED (Unknown)
+Nmap scan report for 10.3.40.170
+Host is up (0.0079s latency).
+MAC Address: DA:5B:68:40:26:EE (Unknown)
+Nmap scan report for 10.3.40.192
+Host is up (0.017s latency).
+MAC Address: 28:C5:D2:4E:F1:EC (Intel Corporate)
+Nmap scan report for 10.3.40.193
+Host is up (0.29s latency).
+MAC Address: 92:C9:6A:13:A1:EC (Unknown)
+Nmap scan report for 10.3.40.197
+Host is up (0.084s latency).
+MAC Address: EE:F1:29:3D:20:9E (Unknown)
+Nmap scan report for 10.3.40.204
+Host is up (0.28s latency).
+MAC Address: C2:16:B9:AE:40:4C (Unknown)
+Nmap scan report for 10.3.40.205
+Host is up (0.0062s latency).
+MAC Address: 58:CD:C9:B7:65:85 (Unknown)
+Nmap scan report for 10.3.40.206
+Host is up (3.0s latency).
+MAC Address: 28:92:00:61:00:08 (Unknown)
+Nmap scan report for 10.3.40.210
+Host is up (0.0068s latency).
+MAC Address: 5A:60:C5:8F:CD:2B (Unknown)
+Nmap scan report for 10.3.40.214
+Host is up (0.0068s latency).
+MAC Address: 88:46:04:B3:DE:F3 (Xiaomi Communications)
+Nmap scan report for 10.3.40.223
+Host is up (0.0074s latency).
+MAC Address: E8:9E:B4:51:95:AF (Hon Hai Precision Ind.)
+Nmap scan report for 10.3.40.224
+Host is up (0.027s latency).
+MAC Address: A2:1B:D2:51:F4:FC (Unknown)
+Nmap scan report for 10.3.40.227
+Host is up (0.0053s latency).
+MAC Address: 76:69:65:70:E8:9E (Unknown)
+Nmap scan report for 10.3.40.234
+Host is up (0.10s latency).
+MAC Address: FE:E0:09:A1:CC:2C (Unknown)
+Nmap scan report for 10.3.40.236
+Host is up (0.086s latency).
+MAC Address: 3A:85:73:FC:06:9F (Unknown)
+Nmap scan report for 10.3.40.240
+Host is up (0.10s latency).
+MAC Address: 0A:59:BD:37:4F:86 (Unknown)
+Nmap scan report for 10.3.40.244
+Host is up (0.089s latency).
+MAC Address: 56:2A:AC:8B:A9:24 (Unknown)
+Nmap scan report for 10.3.40.245
+Host is up (0.083s latency).
+MAC Address: BA:EC:5A:58:F0:9D (Unknown)
+Nmap scan report for 10.3.40.248
+Host is up (0.0074s latency).
+MAC Address: 12:4D:8E:50:61:66 (Unknown)
+Nmap scan report for 10.3.40.195
+Host is up.
+# Nmap done at Thu Oct 30 01:57:45 2025 -- 256 IP addresses (62 hosts up) scanned in 7.75 seconds
